@@ -1,5 +1,5 @@
 ### Hello World, I am
-![GithubPfpBlue1](https://github.com/TheAI-42/TheAI-42/assets/114708225/a9fbcb0f-5768-4ea5-b658-2730d37af740)
+![GithubPfpBlue1](https://github.com/ajh-42/ajh-42/assets/114708225/9a053ef7-cbeb-462d-8b2d-04b23f1309b3)
 
 Welcome to my page, feel free to look around, take your time
 
