@@ -4,7 +4,7 @@
 Welcome to my page, feel free to look around, take your time
 
 # About-Me:
-- I am currently working on project1
+- I am currently working on a personal project: SmartScheduler
 
 # Coding Languages/Tools:
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=white&color=darkblue)
@@ -23,10 +23,12 @@ Welcome to my page, feel free to look around, take your time
 
 
 # Projects:
-- None yet, planning first project
+- SmartScheduler
 
 # TODO:
-- Start a project
+- Work on SmartScheduler
+- Finish basic structure for Calendar class
+- Make UI for SmartScheduler
 
 # Where to find me:
 <p><a href="https://github.com/ajh-42" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white" /> </a> <a href="https://www.linkedIn.com/in/andrew-hayworth-781342290" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedIn-000?&logo=linkedin&logoColor=white&color=blue"</a>
